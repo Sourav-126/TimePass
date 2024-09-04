@@ -2,19 +2,19 @@
 const cards = [
   {
     title: "Top Experiences",
-    imageUrl: "https://path/to/experiences-image.jpg",
+    imageUrl: "",
   },
   {
     title: "Top Attractions",
-    imageUrl: "https://path/to/attractions-image.jpg",
+    imageUrl: "",
   },
   {
     title: "Bucket List",
-    imageUrl: "https://path/to/bucketlist-image.jpg",
+    imageUrl: "",
   },
   {
     title: "Cultural & Historic",
-    imageUrl: "https://path/to/cultural-historic-image.jpg",
+    imageUrl: "",
   },
 ];
 
